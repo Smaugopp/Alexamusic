@@ -1,4 +1,4 @@
-import re
+qimport re
 from os import getenv
 
 from dotenv import load_dotenv
@@ -85,8 +85,8 @@ PING_IMG_URL = getenv(
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/6dd4127abb744a1c82ce9.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph//file/4f8a07408aacfff00f3de.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph//file/4f8a07408aacfff00f3de.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
