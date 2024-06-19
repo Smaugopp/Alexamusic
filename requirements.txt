@@ -25,3 +25,4 @@ youtube-search
 youtube-search-python
 Flask
 Flask-RESTful
+pymongo
