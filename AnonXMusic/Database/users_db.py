@@ -1,4 +1,4 @@
-from mirzya.database import db
+from AnonXMusic.database import db
 
 usersdb = db.users
 
