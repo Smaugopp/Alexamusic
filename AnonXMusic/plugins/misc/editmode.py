@@ -3,7 +3,7 @@ from pymongo import MongoClient
 from config import MONGO_DB_URI
 from pyrogram import filters
 from pyrogram.enums import ChatMembersFilter
-from mirzya import app 
+from AnonXMusic import app 
 
 DATABASE = MongoClient(MONGO_DB_URI)
 DB = DATABASE["MAIN"]["delenable"]
