@@ -30,7 +30,7 @@
 
 ### Deploy on Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/https://github.com/about-tosu/Maddyop)
 
 - Get your [Necessary Variables](https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env)
 - Upgrade and Update by :
