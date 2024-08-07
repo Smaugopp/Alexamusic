@@ -24,22 +24,22 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6915408680:AAGcxq-eVClT3x8Kd2aNlrS0m0sCjnXjDgw",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://fidixi3663:w7rvlxmDd5lsX9ix@cluster0.0k1an50.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "7186437295",
+        "value": "6848223695",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "",
+        "value": "BQF3rQwACeq4VbYG8rcDxxmEJa5CYKD0Rwn6MhYQkbyr-ebhWyzDZACX0BbQ9nOAl_-jgLHZVldG4V2sXnwZkxl2vbACKXsag3i11c5Is1VCX_JMFzMJaXj_JJkSES7I94jeAh5dBgaCzxe5SJG9wb2cGt1DBfRf0Dp5FF78DpkPVIqKVFo1xrjKeGSNaBsBCcbHwUEk58MHPM6scBR1zkdpTgH1OHIczLJ_zAovhds9MjmxlkUlY9OgA0I0mZAHEcSZutejBppezpyhgj932RIszuTJzfDYb3WaN0hbGJVMsXU3oE-LZv5FvdhX8KQvWzGlQmQfYwg0wjIJE_vUI9Hx2mUQbwAAAAE1mGFGAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -49,7 +49,7 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "tosu",
         "required": false
       },
       "LOGGER_ID": {
